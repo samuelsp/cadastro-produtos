@@ -5,7 +5,7 @@ Este projeto é uma aplicação Java desenvolvida para gerenciar produtos e cate
 Este projeto foi realizado como parte do aprendizado obtido no curso Java Development da FIAP (Nano Courses).
 
 ## Tecnologias Utilizadas
-- **Java**: Linguagem de programação principal (versão 17+)
+- **Java**: Linguagem de programação principal (versão 18+)
 - **Maven**: Gerenciamento de dependências e build do projeto
 - **Swing**: Framework para interface gráfica
 - **Padrão Repository**: Para persistência dos dados. Esta aplicação não utiliza banco de dados. A persistência é realizada em lista.
@@ -13,7 +13,7 @@ Este projeto foi realizado como parte do aprendizado obtido no curso Java Develo
 ## Como Executar
 
 ### Pré-requisitos
-- JDK 17 ou superior instalado
+- JDK 18 ou superior instalado
 - Maven instalado
 - Git instalado (opcional)
 
